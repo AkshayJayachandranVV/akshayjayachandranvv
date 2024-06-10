@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akshay jayachandran v v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay jayachandran v v" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akshay-jayachandran-v-v-69293623b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay jayachandran v v" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/akshayjayachandranvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akshayjayachandranvv" height="30" width="40" /></a>
 <a href="https://fb.com/akshay jayachandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akshay jayachandran" height="30" width="40" /></a>
 <a href="https://instagram.com/str_an_ger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="str_an_ger" height="30" width="40" /></a>
